@@ -17,7 +17,7 @@ START = """**
 
 ╔═════════════════╗
 ║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/MISH0009/DNS-CHAT-BOT)  
-║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ᴅɴs ✯ ᴏᴡɴᴇʀ](https://t.me/II_RAJPUT_SHIV_OP_II)                         
+║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ᴅɴs ✯ ᴏᴡɴᴇʀ](https://t.me/THC_OWNER_SAHIL)                         
 ╚═════════════════╝
 **"""
 
